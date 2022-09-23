@@ -46,7 +46,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"Counter.sol": "Counter"
+			"hands-on-task-beginner-1/Counter.sol": "Counter"
 		},
 		"evmVersion": "london",
 		"libraries": {},
@@ -60,12 +60,12 @@
 		"remappings": []
 	},
 	"sources": {
-		"Counter.sol": {
-			"keccak256": "0x22f1a87bcda2c3db90acf1291d9e5cc9ef55a09f0ccb70cbf5518e8896ad235d",
+		"hands-on-task-beginner-1/Counter.sol": {
+			"keccak256": "0xd1db8c7700e16a29eb180f57c07231d56f199278157f091572547f9b0ca13b93",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://014ed1e969a97fee2d62ca1112c86caf0a58973690a23c7c22a19148d77fc385",
-				"dweb:/ipfs/QmRtR7tu9CkoXazX5EGBy1v7TsqUMoxnwVK1YnWcAQUiAB"
+				"bzz-raw://404db259b6791ee04fb927727b0f244cd74459f299487f1c2e15cebccf303772",
+				"dweb:/ipfs/QmbtufomukD348jhzewYfGAHuyMx5LuoJVcmJWnVBkFvBN"
 			]
 		}
 	},

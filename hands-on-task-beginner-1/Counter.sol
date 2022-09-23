@@ -10,10 +10,10 @@ contract Counter {
     uint public count;
 
     function increase() external {
-        count += 1;
+        count++;
     }
 
     function decrease() external {
-        count -= 1;
+        count--;
     }
 }
